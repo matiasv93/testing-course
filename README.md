@@ -41,7 +41,6 @@ You can find all we given during the class in the following path of the project:
 
 Exercises:
 
-Branch: `clase-1/exercises`
 - Navigate to `packages/lib/utils/exercises`
 
 **Class 2**
@@ -51,7 +50,6 @@ You can find all we given during the class in the following path of the project:
 
 Exercises:
 
-Branch: `clase-2/exercises`
 - Navigate to `packages/mobile/src/redux/modules/users/userReducers.test.ts`
 - Go to the end of the file & you should see an incomplete test for you to finish
 - Navigate to `packages/mobile/src/redux/modules/users/actions/exercises`
@@ -68,7 +66,6 @@ You can find all we given during the class in the following path of the project:
 
 Exercises:
 
-Branch: `main`
 - Navigate to `packages/mobile/src/components/UserList/UserList.test.tsx`
 - This component have 3 missing tests, go ahead and write them!
 
